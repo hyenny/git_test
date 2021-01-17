@@ -49,3 +49,6 @@ $ git checkout 브랜치명
 $ git branch -d 브랜치명
 ```
 
+## github flow
+- [github flow 적용](https://github.com/hyenny/git_test/blob/master/docs/github-flow.md)
+
